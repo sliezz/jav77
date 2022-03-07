@@ -1,0 +1,12 @@
+.toolbar-button1 {
+	-fx-background-color: transparent;
+	-fx-border-color: transparent;
+	-fx-background-radius: 0; 
+	-fx-border-width: 0; 
+	-fx-padding: 4;
+}
+
+.toolbar-button1:hover {
+    -fx-background-color: #0096C9;
+    -fx-border-color: #0096C9;
+}
